@@ -33,3 +33,5 @@
 ### start server
 
 `php artisan serve`
+
+Finally, the server runs on [localhost:3000](http:localhost:3000/)
